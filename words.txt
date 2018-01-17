@@ -9996,5 +9996,9 @@ configurations
 poison
 couldn't
 I
-kerala
 Kerala
+ksum
+Ksum
+Technopark
+Inforich
+Futurelab
